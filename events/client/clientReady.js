@@ -60,7 +60,7 @@ function buildStatuses(serverCount, apiLatency, totalUsers) {
       type: ActivityType.Streaming,
       url: "https://www.twitch.tv/phillsphanbh3",
     },
-    { name: "Version 3.0", type: ActivityType.Playing },
+    { name: "Version 2.3", type: ActivityType.Playing },
     { name: "for new reminders", type: ActivityType.Watching },
     { name: "Errors and dev rage", type: ActivityType.Listening },
     {
