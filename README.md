@@ -6,5 +6,6 @@
 
 # What do you need to start up your custom version of Java Lava?
 
-1. npm run start (for production)
-2. npm run dev (for development)
+1. Your discord bot token in your .env file, your app id, your MongoDB URL, and the server id that you will be registering your developer commands to
+2. npm run start (for production)
+3. npm run dev (for development)
